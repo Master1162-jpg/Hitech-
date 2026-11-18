@@ -1,0 +1,6 @@
+{
+  "name": "HitechTrade",
+  "description": "Nền tảng đầu tư tài sản số BTC/USDT thế hệ mới với biểu đồ chuyên nghiệp, Bot AI tự động và thanh toán tức thì.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
